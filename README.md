@@ -35,16 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![revanzk's GitHub Stats](https://readme-stats-smoky-nu.vercel.app/api?username=revanzk&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/revanzk)
-
-</div>
-
----
-
 ### 🔥 Streak
 
 <div align="center">
