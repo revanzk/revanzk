@@ -39,9 +39,7 @@
 
 <div align="center">
 
-![revanzk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revanzk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revanzk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+[![revanzk's GitHub Stats](https://readme-stats-smoky-nu.vercel.app/api?username=revanzk&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/revanzk)
 
 </div>
 
