@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**revanzk/revanzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Revan
 
-Here are some ideas to get you started:
+### Developer · Lifelong Learner · Undergraduate Informatics Students
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Turning ideas into code, one commit at a time.*
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🌍 I'm based in Indonesia
+- 🌱 I'm currently learning **Pyhthon**
+- 🚀 I'm working on **Expense Tracker Using Javascript**
+- 🤝 I'm open to collaborating on Web Development
+- 📫 Reach me at **refancreate@email.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![revanzk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revanzk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revanzk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
+
+---
+
+### 🔥 Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=revanzk&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=revanzk&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
