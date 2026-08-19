@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Revan
+# Hi 👋 I'm Revan Z
 
 ### Developer · Lifelong Learner · Undergraduate Informatics Students
 
