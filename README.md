@@ -45,8 +45,8 @@
 
 ---
 
-<div align="center">
-
-![Visitor Count](https://count.getloli.com/get/@username?theme=gelbooru)
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" width="150" />
+  <br>
+  <img src="https://count.getloli.com/get/@username?theme=gelbooru" alt="Moe Counter" />
+</p>
