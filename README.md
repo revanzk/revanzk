@@ -47,6 +47,7 @@
 
 <div align="center">
 
+![Visitor Count](https://count.getloli.com/get/@username?theme=gelbooru)
 ![Profile Views](https://komarev.com/ghpvc/?username=revanzk&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
