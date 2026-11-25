@@ -14,7 +14,7 @@
 
 - 🌍 I'm based in Indonesia
 - 🌱 I'm currently learning **Python**
-- 🚀 I'm working on **Expense Tracker Using Javascript**
+- 🚀 I'm working on IoT TeleBP project
 - 🤝 I'm open to collaborating on Web Development
 - 📫 Reach me at **refancreate@gmail.com**
 
